@@ -27,9 +27,9 @@ use Model\User_model;
       <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
         <li class="nav-item">
             <? if (User_model::is_logged()) {?>
-              <a href="/main_page/logout" class="btn btn-primary my-2 my-sm-0"
+              <button href="/main_page/logout" class="btn btn-primary my-2 my-sm-0" @click="logout()"
                  data-target="#loginModal">Log out, <?= $user->personaname?>
-              </a>
+              </button>
             <? } else {?>
               <button type="button" class="btn btn-success my-2 my-sm-0" type="submit" data-toggle="modal"
                       data-target="#loginModal">Log IN
@@ -81,7 +81,8 @@ use Model\User_model;
               <div class="card-body">
                 <h5 class="card-title">Post - {{post.id}}</h5>
                 <p class="card-text">{{post.text}}</p>
-                <button type="button" class="btn btn-outline-success my-2 my-sm-0" @click="openPost(post.id)">Open post
+                <button type="button" data-target="#postModal" data-toggle="modal"
+                        class="btn btn-outline-success my-2 my-sm-0" @click="openPost(post.id)">Open post
                 </button>
               </div>
             </div>
