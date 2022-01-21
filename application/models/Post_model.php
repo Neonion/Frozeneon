@@ -151,7 +151,10 @@ class Post_model extends Emerald_Model
      */
     public function get_comments():array
     {
-       // TODO: task 2, комментирование
+        //return static::transform_many(App::get_s()->from(Comment_model::CLASS_TABLE)->many());
+        $r = static::transform_many(App::get_s()->from(Comment_model::CLASS_TABLE)->many());
+        var_dump($r);
+        die;
     }
 
     /**
@@ -205,6 +208,16 @@ class Post_model extends Emerald_Model
     public static function get_all():array
     {
         return static::transform_many(App::get_s()->from(self::CLASS_TABLE)->many());
+    }
+
+    /**
+     * @param int $id
+     *
+     * @return Post_model
+     */
+    public static function get_one(int $id): Post_model
+    {
+        return static::transform_one(App::get_s()->from(self::CLASS_TABLE)->where(['id' => $id])->one());
     }
 
     /**
@@ -268,7 +281,6 @@ class Post_model extends Emerald_Model
     {
         $o = new stdClass();
 
-
         $o->id = $data->get_id();
         $o->img = $data->get_img();
 
@@ -276,7 +288,6 @@ class Post_model extends Emerald_Model
         $o->coments = Comment_model::preparation_many($data->get_comments(),'default');
 
         $o->likes = $data->get_likes();
-
 
         $o->time_created = $data->get_time_created();
         $o->time_updated = $data->get_time_updated();

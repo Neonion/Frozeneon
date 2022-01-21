@@ -38,7 +38,11 @@ var app = new Vue({
 	},
 	methods: {
 		logout: function () {
-			console.log ('logout');
+			axios.post(
+				'/main_page/logout',
+			).then(function () {
+				location.reload();
+			});
 		},
 		logIn: function () {
 			var self= this;
@@ -108,6 +112,7 @@ var app = new Vue({
 				.get('/main_page/get_post/' + id)
 				.then(function (response) {
 					self.post = response.data.post;
+					console.log(response.data);
 					if(self.post){
 						setTimeout(function () {
 							$('#postModal').modal('show');

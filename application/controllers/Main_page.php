@@ -3,6 +3,7 @@
 use Model\Boosterpack_model;
 use Model\Post_model;
 use Model\User_model;
+use Model\Login_model;
 
 /**
  * Created by PhpStorm.
@@ -45,14 +46,34 @@ class Main_page extends MY_Controller
 
     public function login()
     {
-        // TODO: task 1, аутентификация
+        $email    = $this->input->post('login');
+        $password = $this->input->post('password');
+        $user = User_model::find_user_by_email($email);
 
-        return $this->response_success();
+        if (!empty($user)) {
+            $userEmail = $user->get_email();
+            $userPassword = $user->get_password();
+            $userId = $user->get_id();
+
+            $result = Login_model::login($userEmail, $userPassword, $email, $password, $userId);
+
+            if ($result) {
+                $data['user'] = $user;
+                return $this->response_success($data);
+            } else {
+                return $this->response_error('Login was not success');
+            }
+        }
+
     }
 
     public function logout()
     {
-        // TODO: task 1, аутентификация
+        if (User_model::is_logged()) {
+            Login_model::logout();
+        }
+
+        return $this->response_success();
     }
 
     public function comment()
@@ -79,7 +100,9 @@ class Main_page extends MY_Controller
     }
 
     public function get_post(int $post_id) {
-        // TODO получения поста по id
+        $post = Post_model::preparation(Post_model::get_one($post_id), 'full_info');
+
+        return $this->response_success(['post' => $post]);
     }
 
     public function buy_boosterpack()
@@ -92,9 +115,6 @@ class Main_page extends MY_Controller
 
         // TODO: task 5, покупка и открытие бустерпака
     }
-
-
-
 
 
     /**

@@ -20,14 +20,28 @@ class Login_model extends CI_Model {
     }
 
     /**
-     * @return User_model
+     * @param $userEmail
+     * @param $userPassword
+     * @param $email
+     * @param $password
+     * @param $userId
+     *
+     * @return bool
      * @throws Exception
      */
-    public static function login(): User_model
+    public static function login(string $userEmail, string $userPassword, string $email, string $password, int $userId)
     {
-        // TODO: task 1, аутентификация
+        if (empty($userEmail) || empty($userPassword) || empty($email) || empty($password) || empty($userId))
+        {
+            throw new Exception('Some of params is not provided!');
+        }
 
-        self::start_session();
+        if ($userEmail == $email && $userPassword == $password) {
+            self::start_session($userId);
+            return true;
+        } else {
+            return false;
+        }
     }
 
     public static function start_session(int $user_id)

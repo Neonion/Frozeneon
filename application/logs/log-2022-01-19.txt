@@ -160,3 +160,391 @@
 [2022-01-19 16:27:58][info] [CI_Controller][__construct] Controller Class Initialized
 [2022-01-19 16:27:58][info] [CI_Output][_display] Final output sent to browser
 [2022-01-19 16:27:58][debug] [CI_Output][_display] Total execution time: 0.1042
+[2022-01-19 21:03:11][debug] [BASEPATH/core/Common.php][get_config] Config file loaded: /var/www/html/application/config/development/config.php
+[2022-01-19 21:03:11][info] [CI_Config][__construct] Config Class Initialized
+[2022-01-19 21:03:11][info] [CI_Hooks][__construct] Hooks Class Initialized
+[2022-01-19 21:03:11][debug] [CI_Utf8][__construct] UTF-8 Support Enabled
+[2022-01-19 21:03:11][info] [CI_Utf8][__construct] Utf8 Class Initialized
+[2022-01-19 21:03:11][info] [CI_URI][__construct] URI Class Initialized
+[2022-01-19 21:03:11][debug] [CI_Router][_set_routing] Config file loaded: /var/www/html/application/config/routes.php
+[2022-01-19 21:03:11][info] [CI_Router][__construct] Router Class Initialized
+[2022-01-19 21:03:11][debug] [BASEPATH/core/Output.php][get_mimes] Config file loaded: /var/www/html/application/config/mimes.php
+[2022-01-19 21:03:11][info] [CI_Output][__construct] Output Class Initialized
+[2022-01-19 21:03:11][info] [CI_Security][__construct] Security Class Initialized
+[2022-01-19 21:03:11][debug] [CI_Input][_sanitize_globals] Global POST, GET and COOKIE data sanitized
+[2022-01-19 21:03:11][info] [CI_Input][__construct] Input Class Initialized
+[2022-01-19 21:03:11][info] [CI_Lang][__construct] Language Class Initialized
+[2022-01-19 21:03:11][info] [CI_Loader][__construct] Loader Class Initialized
+[2022-01-19 21:03:11][debug] [CI_Loader][_ci_autoloader] Config file loaded: /var/www/html/application/config/autoload.php
+[2022-01-19 21:03:11][info] [CI_Loader][helper] Helper loaded: url_helper
+[2022-01-19 21:03:11][info] [CI_Loader][helper] Helper loaded: cookie_helper
+[2022-01-19 21:03:11][info] [CI_Loader][helper] Helper loaded: cms_helper
+[2022-01-19 21:03:11][info] [CI_Session][__construct] Session: Class initialized using 'files' driver.
+[2022-01-19 21:03:11][debug] [CI_Sparrow_starter][set_db] Config file loaded: /var/www/html/application/config/development/database.php
+[2022-01-19 21:03:11][info] [CI_Controller][__construct] Controller Class Initialized
+[2022-01-19 21:03:11][info] [CI_Output][_display] Final output sent to browser
+[2022-01-19 21:03:11][debug] [CI_Output][_display] Total execution time: 0.0878
+[2022-01-19 21:03:13][debug] [BASEPATH/core/Common.php][get_config] Config file loaded: /var/www/html/application/config/development/config.php
+[2022-01-19 21:03:13][info] [CI_Config][__construct] Config Class Initialized
+[2022-01-19 21:03:13][info] [CI_Hooks][__construct] Hooks Class Initialized
+[2022-01-19 21:03:13][debug] [CI_Utf8][__construct] UTF-8 Support Enabled
+[2022-01-19 21:03:13][info] [CI_Utf8][__construct] Utf8 Class Initialized
+[2022-01-19 21:03:13][info] [CI_URI][__construct] URI Class Initialized
+[2022-01-19 21:03:13][debug] [CI_Router][_set_routing] Config file loaded: /var/www/html/application/config/routes.php
+[2022-01-19 21:03:13][info] [CI_Router][__construct] Router Class Initialized
+[2022-01-19 21:03:13][debug] [BASEPATH/core/Output.php][get_mimes] Config file loaded: /var/www/html/application/config/mimes.php
+[2022-01-19 21:03:13][info] [CI_Output][__construct] Output Class Initialized
+[2022-01-19 21:03:13][info] [CI_Security][__construct] Security Class Initialized
+[2022-01-19 21:03:13][debug] [CI_Input][_sanitize_globals] Global POST, GET and COOKIE data sanitized
+[2022-01-19 21:03:13][info] [CI_Input][__construct] Input Class Initialized
+[2022-01-19 21:03:13][info] [CI_Lang][__construct] Language Class Initialized
+[2022-01-19 21:03:13][info] [CI_Loader][__construct] Loader Class Initialized
+[2022-01-19 21:03:13][debug] [CI_Loader][_ci_autoloader] Config file loaded: /var/www/html/application/config/autoload.php
+[2022-01-19 21:03:13][info] [CI_Loader][helper] Helper loaded: url_helper
+[2022-01-19 21:03:13][info] [CI_Loader][helper] Helper loaded: cookie_helper
+[2022-01-19 21:03:13][info] [CI_Loader][helper] Helper loaded: cms_helper
+[2022-01-19 21:03:13][info] [CI_Session][__construct] Session: Class initialized using 'files' driver.
+[2022-01-19 21:03:13][debug] [CI_Sparrow_starter][set_db] Config file loaded: /var/www/html/application/config/development/database.php
+[2022-01-19 21:03:13][info] [CI_Controller][__construct] Controller Class Initialized
+[2022-01-19 21:03:13][info] [CI_Output][_display] Final output sent to browser
+[2022-01-19 21:03:13][debug] [CI_Output][_display] Total execution time: 0.0739
+[2022-01-19 21:03:16][debug] [BASEPATH/core/Common.php][get_config] Config file loaded: /var/www/html/application/config/development/config.php
+[2022-01-19 21:03:16][info] [CI_Config][__construct] Config Class Initialized
+[2022-01-19 21:03:16][info] [CI_Hooks][__construct] Hooks Class Initialized
+[2022-01-19 21:03:16][debug] [CI_Utf8][__construct] UTF-8 Support Enabled
+[2022-01-19 21:03:16][info] [CI_Utf8][__construct] Utf8 Class Initialized
+[2022-01-19 21:03:16][info] [CI_URI][__construct] URI Class Initialized
+[2022-01-19 21:03:16][debug] [CI_Router][_set_routing] Config file loaded: /var/www/html/application/config/routes.php
+[2022-01-19 21:03:16][info] [CI_Router][__construct] Router Class Initialized
+[2022-01-19 21:03:16][debug] [BASEPATH/core/Output.php][get_mimes] Config file loaded: /var/www/html/application/config/mimes.php
+[2022-01-19 21:03:16][info] [CI_Output][__construct] Output Class Initialized
+[2022-01-19 21:03:16][info] [CI_Security][__construct] Security Class Initialized
+[2022-01-19 21:03:16][debug] [CI_Input][_sanitize_globals] Global POST, GET and COOKIE data sanitized
+[2022-01-19 21:03:16][info] [CI_Input][__construct] Input Class Initialized
+[2022-01-19 21:03:16][info] [CI_Lang][__construct] Language Class Initialized
+[2022-01-19 21:03:16][info] [CI_Loader][__construct] Loader Class Initialized
+[2022-01-19 21:03:16][debug] [CI_Loader][_ci_autoloader] Config file loaded: /var/www/html/application/config/autoload.php
+[2022-01-19 21:03:16][info] [CI_Loader][helper] Helper loaded: url_helper
+[2022-01-19 21:03:16][info] [CI_Loader][helper] Helper loaded: cookie_helper
+[2022-01-19 21:03:16][info] [CI_Loader][helper] Helper loaded: cms_helper
+[2022-01-19 21:03:16][info] [CI_Session][__construct] Session: Class initialized using 'files' driver.
+[2022-01-19 21:03:16][debug] [CI_Sparrow_starter][set_db] Config file loaded: /var/www/html/application/config/development/database.php
+[2022-01-19 21:03:16][info] [CI_Controller][__construct] Controller Class Initialized
+[2022-01-19 21:03:16][info] [CI_Output][_display] Final output sent to browser
+[2022-01-19 21:03:16][debug] [CI_Output][_display] Total execution time: 0.0733
+[2022-01-19 21:03:21][debug] [BASEPATH/core/Common.php][get_config] Config file loaded: /var/www/html/application/config/development/config.php
+[2022-01-19 21:03:21][info] [CI_Config][__construct] Config Class Initialized
+[2022-01-19 21:03:21][info] [CI_Hooks][__construct] Hooks Class Initialized
+[2022-01-19 21:03:21][debug] [CI_Utf8][__construct] UTF-8 Support Enabled
+[2022-01-19 21:03:21][info] [CI_Utf8][__construct] Utf8 Class Initialized
+[2022-01-19 21:03:21][info] [CI_URI][__construct] URI Class Initialized
+[2022-01-19 21:03:21][debug] [CI_Router][_set_routing] Config file loaded: /var/www/html/application/config/routes.php
+[2022-01-19 21:03:21][info] [CI_Router][__construct] Router Class Initialized
+[2022-01-19 21:03:21][debug] [BASEPATH/core/Output.php][get_mimes] Config file loaded: /var/www/html/application/config/mimes.php
+[2022-01-19 21:03:21][info] [CI_Output][__construct] Output Class Initialized
+[2022-01-19 21:03:21][info] [CI_Security][__construct] Security Class Initialized
+[2022-01-19 21:03:21][debug] [CI_Input][_sanitize_globals] Global POST, GET and COOKIE data sanitized
+[2022-01-19 21:03:21][info] [CI_Input][__construct] Input Class Initialized
+[2022-01-19 21:03:21][info] [CI_Lang][__construct] Language Class Initialized
+[2022-01-19 21:03:21][info] [CI_Loader][__construct] Loader Class Initialized
+[2022-01-19 21:03:21][debug] [CI_Loader][_ci_autoloader] Config file loaded: /var/www/html/application/config/autoload.php
+[2022-01-19 21:03:21][info] [CI_Loader][helper] Helper loaded: url_helper
+[2022-01-19 21:03:21][info] [CI_Loader][helper] Helper loaded: cookie_helper
+[2022-01-19 21:03:21][info] [CI_Loader][helper] Helper loaded: cms_helper
+[2022-01-19 21:03:21][info] [CI_Session][__construct] Session: Class initialized using 'files' driver.
+[2022-01-19 21:03:21][debug] [CI_Sparrow_starter][set_db] Config file loaded: /var/www/html/application/config/development/database.php
+[2022-01-19 21:03:21][info] [CI_Controller][__construct] Controller Class Initialized
+[2022-01-19 21:03:21][info] [CI_Output][_display] Final output sent to browser
+[2022-01-19 21:03:21][debug] [CI_Output][_display] Total execution time: 0.0732
+[2022-01-19 21:03:24][debug] [BASEPATH/core/Common.php][get_config] Config file loaded: /var/www/html/application/config/development/config.php
+[2022-01-19 21:03:24][info] [CI_Config][__construct] Config Class Initialized
+[2022-01-19 21:03:24][info] [CI_Hooks][__construct] Hooks Class Initialized
+[2022-01-19 21:03:24][debug] [CI_Utf8][__construct] UTF-8 Support Enabled
+[2022-01-19 21:03:24][info] [CI_Utf8][__construct] Utf8 Class Initialized
+[2022-01-19 21:03:24][info] [CI_URI][__construct] URI Class Initialized
+[2022-01-19 21:03:24][debug] [CI_Router][_set_routing] Config file loaded: /var/www/html/application/config/routes.php
+[2022-01-19 21:03:24][info] [CI_Router][__construct] Router Class Initialized
+[2022-01-19 21:03:24][debug] [BASEPATH/core/Output.php][get_mimes] Config file loaded: /var/www/html/application/config/mimes.php
+[2022-01-19 21:03:24][info] [CI_Output][__construct] Output Class Initialized
+[2022-01-19 21:03:24][info] [CI_Security][__construct] Security Class Initialized
+[2022-01-19 21:03:24][debug] [CI_Input][_sanitize_globals] Global POST, GET and COOKIE data sanitized
+[2022-01-19 21:03:24][info] [CI_Input][__construct] Input Class Initialized
+[2022-01-19 21:03:24][info] [CI_Lang][__construct] Language Class Initialized
+[2022-01-19 21:03:24][info] [CI_Loader][__construct] Loader Class Initialized
+[2022-01-19 21:03:24][debug] [CI_Loader][_ci_autoloader] Config file loaded: /var/www/html/application/config/autoload.php
+[2022-01-19 21:03:24][info] [CI_Loader][helper] Helper loaded: url_helper
+[2022-01-19 21:03:24][info] [CI_Loader][helper] Helper loaded: cookie_helper
+[2022-01-19 21:03:24][info] [CI_Loader][helper] Helper loaded: cms_helper
+[2022-01-19 21:03:24][info] [CI_Session][__construct] Session: Class initialized using 'files' driver.
+[2022-01-19 21:03:24][debug] [CI_Sparrow_starter][set_db] Config file loaded: /var/www/html/application/config/development/database.php
+[2022-01-19 21:03:24][info] [CI_Controller][__construct] Controller Class Initialized
+[2022-01-19 21:03:24][info] [CI_Output][_display] Final output sent to browser
+[2022-01-19 21:03:24][debug] [CI_Output][_display] Total execution time: 0.0746
+[2022-01-19 22:04:16][debug] [BASEPATH/core/Common.php][get_config] Config file loaded: /var/www/html/application/config/development/config.php
+[2022-01-19 22:04:16][info] [CI_Config][__construct] Config Class Initialized
+[2022-01-19 22:04:16][info] [CI_Hooks][__construct] Hooks Class Initialized
+[2022-01-19 22:04:16][debug] [CI_Utf8][__construct] UTF-8 Support Enabled
+[2022-01-19 22:04:16][info] [CI_Utf8][__construct] Utf8 Class Initialized
+[2022-01-19 22:04:16][info] [CI_URI][__construct] URI Class Initialized
+[2022-01-19 22:04:16][debug] [CI_Router][_set_routing] Config file loaded: /var/www/html/application/config/routes.php
+[2022-01-19 22:04:16][debug] [CI_Router][_set_default_controller] No URI present. Default controller set.
+[2022-01-19 22:04:16][info] [CI_Router][__construct] Router Class Initialized
+[2022-01-19 22:04:16][debug] [BASEPATH/core/Output.php][get_mimes] Config file loaded: /var/www/html/application/config/mimes.php
+[2022-01-19 22:04:16][info] [CI_Output][__construct] Output Class Initialized
+[2022-01-19 22:04:16][info] [CI_Security][__construct] Security Class Initialized
+[2022-01-19 22:04:16][debug] [CI_Input][_sanitize_globals] Global POST, GET and COOKIE data sanitized
+[2022-01-19 22:04:16][info] [CI_Input][__construct] Input Class Initialized
+[2022-01-19 22:04:16][info] [CI_Lang][__construct] Language Class Initialized
+[2022-01-19 22:04:16][info] [CI_Loader][__construct] Loader Class Initialized
+[2022-01-19 22:04:16][debug] [CI_Loader][_ci_autoloader] Config file loaded: /var/www/html/application/config/autoload.php
+[2022-01-19 22:04:16][info] [CI_Loader][helper] Helper loaded: url_helper
+[2022-01-19 22:04:16][info] [CI_Loader][helper] Helper loaded: cookie_helper
+[2022-01-19 22:04:16][info] [CI_Loader][helper] Helper loaded: cms_helper
+[2022-01-19 22:04:16][info] [CI_Session][__construct] Session: Class initialized using 'files' driver.
+[2022-01-19 22:04:16][debug] [CI_Sparrow_starter][set_db] Config file loaded: /var/www/html/application/config/development/database.php
+[2022-01-19 22:04:16][info] [CI_Controller][__construct] Controller Class Initialized
+[2022-01-19 22:04:16][info] [CI_Loader][_ci_load] File loaded: /var/www/html/application/views/main_page.php
+[2022-01-19 22:04:16][info] [CI_Output][_display] Final output sent to browser
+[2022-01-19 22:04:16][debug] [CI_Output][_display] Total execution time: 0.1009
+[2022-01-19 22:04:16][debug] [BASEPATH/core/Common.php][get_config] Config file loaded: /var/www/html/application/config/development/config.php
+[2022-01-19 22:04:16][debug] [BASEPATH/core/Common.php][get_config] Config file loaded: /var/www/html/application/config/development/config.php
+[2022-01-19 22:04:16][info] [CI_Config][__construct] Config Class Initialized
+[2022-01-19 22:04:16][info] [CI_Hooks][__construct] Hooks Class Initialized
+[2022-01-19 22:04:16][info] [CI_Config][__construct] Config Class Initialized
+[2022-01-19 22:04:16][info] [CI_Hooks][__construct] Hooks Class Initialized
+[2022-01-19 22:04:16][debug] [CI_Utf8][__construct] UTF-8 Support Enabled
+[2022-01-19 22:04:16][info] [CI_Utf8][__construct] Utf8 Class Initialized
+[2022-01-19 22:04:16][debug] [CI_Utf8][__construct] UTF-8 Support Enabled
+[2022-01-19 22:04:16][info] [CI_Utf8][__construct] Utf8 Class Initialized
+[2022-01-19 22:04:16][info] [CI_URI][__construct] URI Class Initialized
+[2022-01-19 22:04:16][info] [CI_URI][__construct] URI Class Initialized
+[2022-01-19 22:04:16][debug] [CI_Router][_set_routing] Config file loaded: /var/www/html/application/config/routes.php
+[2022-01-19 22:04:16][info] [CI_Router][__construct] Router Class Initialized
+[2022-01-19 22:04:16][debug] [CI_Router][_set_routing] Config file loaded: /var/www/html/application/config/routes.php
+[2022-01-19 22:04:16][info] [CI_Router][__construct] Router Class Initialized
+[2022-01-19 22:04:16][debug] [BASEPATH/core/Output.php][get_mimes] Config file loaded: /var/www/html/application/config/mimes.php
+[2022-01-19 22:04:16][info] [CI_Output][__construct] Output Class Initialized
+[2022-01-19 22:04:16][debug] [BASEPATH/core/Output.php][get_mimes] Config file loaded: /var/www/html/application/config/mimes.php
+[2022-01-19 22:04:16][info] [CI_Output][__construct] Output Class Initialized
+[2022-01-19 22:04:16][info] [CI_Security][__construct] Security Class Initialized
+[2022-01-19 22:04:16][info] [CI_Security][__construct] Security Class Initialized
+[2022-01-19 22:04:16][debug] [CI_Input][_sanitize_globals] Global POST, GET and COOKIE data sanitized
+[2022-01-19 22:04:16][info] [CI_Input][__construct] Input Class Initialized
+[2022-01-19 22:04:16][debug] [CI_Input][_sanitize_globals] Global POST, GET and COOKIE data sanitized
+[2022-01-19 22:04:16][info] [CI_Input][__construct] Input Class Initialized
+[2022-01-19 22:04:16][info] [CI_Lang][__construct] Language Class Initialized
+[2022-01-19 22:04:16][info] [CI_Lang][__construct] Language Class Initialized
+[2022-01-19 22:04:16][info] [CI_Loader][__construct] Loader Class Initialized
+[2022-01-19 22:04:16][debug] [CI_Loader][_ci_autoloader] Config file loaded: /var/www/html/application/config/autoload.php
+[2022-01-19 22:04:16][info] [CI_Loader][__construct] Loader Class Initialized
+[2022-01-19 22:04:16][debug] [CI_Loader][_ci_autoloader] Config file loaded: /var/www/html/application/config/autoload.php
+[2022-01-19 22:04:16][info] [CI_Loader][helper] Helper loaded: url_helper
+[2022-01-19 22:04:16][info] [CI_Loader][helper] Helper loaded: url_helper
+[2022-01-19 22:04:16][info] [CI_Loader][helper] Helper loaded: cookie_helper
+[2022-01-19 22:04:16][info] [CI_Loader][helper] Helper loaded: cookie_helper
+[2022-01-19 22:04:16][info] [CI_Loader][helper] Helper loaded: cms_helper
+[2022-01-19 22:04:16][info] [CI_Loader][helper] Helper loaded: cms_helper
+[2022-01-19 22:04:16][info] [CI_Session][__construct] Session: Class initialized using 'files' driver.
+[2022-01-19 22:04:16][debug] [CI_Sparrow_starter][set_db] Config file loaded: /var/www/html/application/config/development/database.php
+[2022-01-19 22:04:16][info] [CI_Controller][__construct] Controller Class Initialized
+[2022-01-19 22:04:16][info] [CI_Output][_display] Final output sent to browser
+[2022-01-19 22:04:16][debug] [CI_Output][_display] Total execution time: 0.0797
+[2022-01-19 22:04:16][info] [CI_Session][__construct] Session: Class initialized using 'files' driver.
+[2022-01-19 22:04:16][debug] [CI_Sparrow_starter][set_db] Config file loaded: /var/www/html/application/config/development/database.php
+[2022-01-19 22:04:16][info] [CI_Controller][__construct] Controller Class Initialized
+[2022-01-19 22:04:16][info] [CI_Output][_display] Final output sent to browser
+[2022-01-19 22:04:16][debug] [CI_Output][_display] Total execution time: 0.0924
+[2022-01-19 22:06:33][debug] [BASEPATH/core/Common.php][get_config] Config file loaded: /var/www/html/application/config/development/config.php
+[2022-01-19 22:06:33][info] [CI_Config][__construct] Config Class Initialized
+[2022-01-19 22:06:33][info] [CI_Hooks][__construct] Hooks Class Initialized
+[2022-01-19 22:06:33][debug] [CI_Utf8][__construct] UTF-8 Support Enabled
+[2022-01-19 22:06:33][info] [CI_Utf8][__construct] Utf8 Class Initialized
+[2022-01-19 22:06:33][info] [CI_URI][__construct] URI Class Initialized
+[2022-01-19 22:06:33][debug] [CI_Router][_set_routing] Config file loaded: /var/www/html/application/config/routes.php
+[2022-01-19 22:06:33][debug] [CI_Router][_set_default_controller] No URI present. Default controller set.
+[2022-01-19 22:06:33][info] [CI_Router][__construct] Router Class Initialized
+[2022-01-19 22:06:33][debug] [BASEPATH/core/Output.php][get_mimes] Config file loaded: /var/www/html/application/config/mimes.php
+[2022-01-19 22:06:33][info] [CI_Output][__construct] Output Class Initialized
+[2022-01-19 22:06:33][info] [CI_Security][__construct] Security Class Initialized
+[2022-01-19 22:06:33][debug] [CI_Input][_sanitize_globals] Global POST, GET and COOKIE data sanitized
+[2022-01-19 22:06:33][info] [CI_Input][__construct] Input Class Initialized
+[2022-01-19 22:06:33][info] [CI_Lang][__construct] Language Class Initialized
+[2022-01-19 22:06:33][info] [CI_Loader][__construct] Loader Class Initialized
+[2022-01-19 22:06:33][debug] [CI_Loader][_ci_autoloader] Config file loaded: /var/www/html/application/config/autoload.php
+[2022-01-19 22:06:33][info] [CI_Loader][helper] Helper loaded: url_helper
+[2022-01-19 22:06:33][info] [CI_Loader][helper] Helper loaded: cookie_helper
+[2022-01-19 22:06:33][info] [CI_Loader][helper] Helper loaded: cms_helper
+[2022-01-19 22:06:33][info] [CI_Session][__construct] Session: Class initialized using 'files' driver.
+[2022-01-19 22:06:33][debug] [CI_Sparrow_starter][set_db] Config file loaded: /var/www/html/application/config/development/database.php
+[2022-01-19 22:06:33][info] [CI_Controller][__construct] Controller Class Initialized
+[2022-01-19 22:06:33][info] [CI_Loader][_ci_load] File loaded: /var/www/html/application/views/main_page.php
+[2022-01-19 22:06:33][info] [CI_Output][_display] Final output sent to browser
+[2022-01-19 22:06:33][debug] [CI_Output][_display] Total execution time: 0.0691
+[2022-01-19 22:06:33][debug] [BASEPATH/core/Common.php][get_config] Config file loaded: /var/www/html/application/config/development/config.php
+[2022-01-19 22:06:33][debug] [BASEPATH/core/Common.php][get_config] Config file loaded: /var/www/html/application/config/development/config.php
+[2022-01-19 22:06:33][info] [CI_Config][__construct] Config Class Initialized
+[2022-01-19 22:06:33][info] [CI_Config][__construct] Config Class Initialized
+[2022-01-19 22:06:33][info] [CI_Hooks][__construct] Hooks Class Initialized
+[2022-01-19 22:06:33][info] [CI_Hooks][__construct] Hooks Class Initialized
+[2022-01-19 22:06:33][debug] [CI_Utf8][__construct] UTF-8 Support Enabled
+[2022-01-19 22:06:33][info] [CI_Utf8][__construct] Utf8 Class Initialized
+[2022-01-19 22:06:33][debug] [CI_Utf8][__construct] UTF-8 Support Enabled
+[2022-01-19 22:06:33][info] [CI_Utf8][__construct] Utf8 Class Initialized
+[2022-01-19 22:06:33][info] [CI_URI][__construct] URI Class Initialized
+[2022-01-19 22:06:33][info] [CI_URI][__construct] URI Class Initialized
+[2022-01-19 22:06:33][debug] [CI_Router][_set_routing] Config file loaded: /var/www/html/application/config/routes.php
+[2022-01-19 22:06:33][info] [CI_Router][__construct] Router Class Initialized
+[2022-01-19 22:06:33][debug] [CI_Router][_set_routing] Config file loaded: /var/www/html/application/config/routes.php
+[2022-01-19 22:06:33][info] [CI_Router][__construct] Router Class Initialized
+[2022-01-19 22:06:33][debug] [BASEPATH/core/Output.php][get_mimes] Config file loaded: /var/www/html/application/config/mimes.php
+[2022-01-19 22:06:33][debug] [BASEPATH/core/Output.php][get_mimes] Config file loaded: /var/www/html/application/config/mimes.php
+[2022-01-19 22:06:33][info] [CI_Output][__construct] Output Class Initialized
+[2022-01-19 22:06:33][info] [CI_Output][__construct] Output Class Initialized
+[2022-01-19 22:06:33][info] [CI_Security][__construct] Security Class Initialized
+[2022-01-19 22:06:33][info] [CI_Security][__construct] Security Class Initialized
+[2022-01-19 22:06:33][debug] [CI_Input][_sanitize_globals] Global POST, GET and COOKIE data sanitized
+[2022-01-19 22:06:33][debug] [CI_Input][_sanitize_globals] Global POST, GET and COOKIE data sanitized
+[2022-01-19 22:06:33][info] [CI_Input][__construct] Input Class Initialized
+[2022-01-19 22:06:33][info] [CI_Input][__construct] Input Class Initialized
+[2022-01-19 22:06:33][info] [CI_Lang][__construct] Language Class Initialized
+[2022-01-19 22:06:33][info] [CI_Lang][__construct] Language Class Initialized
+[2022-01-19 22:06:33][info] [CI_Loader][__construct] Loader Class Initialized
+[2022-01-19 22:06:33][info] [CI_Loader][__construct] Loader Class Initialized
+[2022-01-19 22:06:33][debug] [CI_Loader][_ci_autoloader] Config file loaded: /var/www/html/application/config/autoload.php
+[2022-01-19 22:06:33][debug] [CI_Loader][_ci_autoloader] Config file loaded: /var/www/html/application/config/autoload.php
+[2022-01-19 22:06:33][info] [CI_Loader][helper] Helper loaded: url_helper
+[2022-01-19 22:06:33][info] [CI_Loader][helper] Helper loaded: url_helper
+[2022-01-19 22:06:33][info] [CI_Loader][helper] Helper loaded: cookie_helper
+[2022-01-19 22:06:33][info] [CI_Loader][helper] Helper loaded: cookie_helper
+[2022-01-19 22:06:33][info] [CI_Loader][helper] Helper loaded: cms_helper
+[2022-01-19 22:06:33][info] [CI_Loader][helper] Helper loaded: cms_helper
+[2022-01-19 22:06:33][info] [CI_Session][__construct] Session: Class initialized using 'files' driver.
+[2022-01-19 22:06:33][debug] [CI_Sparrow_starter][set_db] Config file loaded: /var/www/html/application/config/development/database.php
+[2022-01-19 22:06:33][info] [CI_Controller][__construct] Controller Class Initialized
+[2022-01-19 22:06:33][info] [CI_Output][_display] Final output sent to browser
+[2022-01-19 22:06:33][debug] [CI_Output][_display] Total execution time: 0.0788
+[2022-01-19 22:06:33][info] [CI_Session][__construct] Session: Class initialized using 'files' driver.
+[2022-01-19 22:06:33][debug] [CI_Sparrow_starter][set_db] Config file loaded: /var/www/html/application/config/development/database.php
+[2022-01-19 22:06:33][info] [CI_Controller][__construct] Controller Class Initialized
+[2022-01-19 22:06:33][info] [CI_Output][_display] Final output sent to browser
+[2022-01-19 22:06:33][debug] [CI_Output][_display] Total execution time: 0.0936
+[2022-01-19 22:12:34][debug] [BASEPATH/core/Common.php][get_config] Config file loaded: /var/www/html/application/config/development/config.php
+[2022-01-19 22:12:34][info] [CI_Config][__construct] Config Class Initialized
+[2022-01-19 22:12:34][info] [CI_Hooks][__construct] Hooks Class Initialized
+[2022-01-19 22:12:34][debug] [CI_Utf8][__construct] UTF-8 Support Enabled
+[2022-01-19 22:12:34][info] [CI_Utf8][__construct] Utf8 Class Initialized
+[2022-01-19 22:12:34][info] [CI_URI][__construct] URI Class Initialized
+[2022-01-19 22:12:34][debug] [CI_Router][_set_routing] Config file loaded: /var/www/html/application/config/routes.php
+[2022-01-19 22:12:34][debug] [CI_Router][_set_default_controller] No URI present. Default controller set.
+[2022-01-19 22:12:34][info] [CI_Router][__construct] Router Class Initialized
+[2022-01-19 22:12:34][debug] [BASEPATH/core/Output.php][get_mimes] Config file loaded: /var/www/html/application/config/mimes.php
+[2022-01-19 22:12:35][info] [CI_Output][__construct] Output Class Initialized
+[2022-01-19 22:12:35][info] [CI_Security][__construct] Security Class Initialized
+[2022-01-19 22:12:35][debug] [CI_Input][_sanitize_globals] Global POST, GET and COOKIE data sanitized
+[2022-01-19 22:12:35][info] [CI_Input][__construct] Input Class Initialized
+[2022-01-19 22:12:35][info] [CI_Lang][__construct] Language Class Initialized
+[2022-01-19 22:12:35][info] [CI_Loader][__construct] Loader Class Initialized
+[2022-01-19 22:12:35][debug] [CI_Loader][_ci_autoloader] Config file loaded: /var/www/html/application/config/autoload.php
+[2022-01-19 22:12:35][info] [CI_Loader][helper] Helper loaded: url_helper
+[2022-01-19 22:12:35][info] [CI_Loader][helper] Helper loaded: cookie_helper
+[2022-01-19 22:12:35][info] [CI_Loader][helper] Helper loaded: cms_helper
+[2022-01-19 22:12:35][info] [CI_Session][__construct] Session: Class initialized using 'files' driver.
+[2022-01-19 22:12:35][debug] [CI_Sparrow_starter][set_db] Config file loaded: /var/www/html/application/config/development/database.php
+[2022-01-19 22:12:35][info] [CI_Controller][__construct] Controller Class Initialized
+[2022-01-19 22:12:35][info] [CI_Loader][_ci_load] File loaded: /var/www/html/application/views/main_page.php
+[2022-01-19 22:12:35][info] [CI_Output][_display] Final output sent to browser
+[2022-01-19 22:12:35][debug] [CI_Output][_display] Total execution time: 0.1157
+[2022-01-19 22:12:35][debug] [BASEPATH/core/Common.php][get_config] Config file loaded: /var/www/html/application/config/development/config.php
+[2022-01-19 22:12:35][info] [CI_Config][__construct] Config Class Initialized
+[2022-01-19 22:12:35][debug] [BASEPATH/core/Common.php][get_config] Config file loaded: /var/www/html/application/config/development/config.php
+[2022-01-19 22:12:35][info] [CI_Hooks][__construct] Hooks Class Initialized
+[2022-01-19 22:12:35][debug] [CI_Utf8][__construct] UTF-8 Support Enabled
+[2022-01-19 22:12:35][info] [CI_Config][__construct] Config Class Initialized
+[2022-01-19 22:12:35][info] [CI_Utf8][__construct] Utf8 Class Initialized
+[2022-01-19 22:12:35][info] [CI_Hooks][__construct] Hooks Class Initialized
+[2022-01-19 22:12:35][info] [CI_URI][__construct] URI Class Initialized
+[2022-01-19 22:12:35][debug] [CI_Utf8][__construct] UTF-8 Support Enabled
+[2022-01-19 22:12:35][debug] [CI_Router][_set_routing] Config file loaded: /var/www/html/application/config/routes.php
+[2022-01-19 22:12:35][info] [CI_Utf8][__construct] Utf8 Class Initialized
+[2022-01-19 22:12:35][info] [CI_Router][__construct] Router Class Initialized
+[2022-01-19 22:12:35][info] [CI_URI][__construct] URI Class Initialized
+[2022-01-19 22:12:35][debug] [BASEPATH/core/Output.php][get_mimes] Config file loaded: /var/www/html/application/config/mimes.php
+[2022-01-19 22:12:35][debug] [CI_Router][_set_routing] Config file loaded: /var/www/html/application/config/routes.php
+[2022-01-19 22:12:35][info] [CI_Output][__construct] Output Class Initialized
+[2022-01-19 22:12:35][info] [CI_Router][__construct] Router Class Initialized
+[2022-01-19 22:12:35][info] [CI_Security][__construct] Security Class Initialized
+[2022-01-19 22:12:35][debug] [BASEPATH/core/Output.php][get_mimes] Config file loaded: /var/www/html/application/config/mimes.php
+[2022-01-19 22:12:35][info] [CI_Output][__construct] Output Class Initialized
+[2022-01-19 22:12:35][debug] [CI_Input][_sanitize_globals] Global POST, GET and COOKIE data sanitized
+[2022-01-19 22:12:35][info] [CI_Input][__construct] Input Class Initialized
+[2022-01-19 22:12:35][info] [CI_Security][__construct] Security Class Initialized
+[2022-01-19 22:12:35][info] [CI_Lang][__construct] Language Class Initialized
+[2022-01-19 22:12:35][debug] [CI_Input][_sanitize_globals] Global POST, GET and COOKIE data sanitized
+[2022-01-19 22:12:35][info] [CI_Input][__construct] Input Class Initialized
+[2022-01-19 22:12:35][info] [CI_Loader][__construct] Loader Class Initialized
+[2022-01-19 22:12:35][debug] [CI_Loader][_ci_autoloader] Config file loaded: /var/www/html/application/config/autoload.php
+[2022-01-19 22:12:35][info] [CI_Lang][__construct] Language Class Initialized
+[2022-01-19 22:12:35][info] [CI_Loader][__construct] Loader Class Initialized
+[2022-01-19 22:12:35][info] [CI_Loader][helper] Helper loaded: url_helper
+[2022-01-19 22:12:35][debug] [CI_Loader][_ci_autoloader] Config file loaded: /var/www/html/application/config/autoload.php
+[2022-01-19 22:12:35][info] [CI_Loader][helper] Helper loaded: cookie_helper
+[2022-01-19 22:12:35][info] [CI_Loader][helper] Helper loaded: cms_helper
+[2022-01-19 22:12:35][info] [CI_Loader][helper] Helper loaded: url_helper
+[2022-01-19 22:12:35][info] [CI_Loader][helper] Helper loaded: cookie_helper
+[2022-01-19 22:12:35][info] [CI_Loader][helper] Helper loaded: cms_helper
+[2022-01-19 22:12:35][info] [CI_Session][__construct] Session: Class initialized using 'files' driver.
+[2022-01-19 22:12:35][debug] [CI_Sparrow_starter][set_db] Config file loaded: /var/www/html/application/config/development/database.php
+[2022-01-19 22:12:35][info] [CI_Controller][__construct] Controller Class Initialized
+[2022-01-19 22:12:35][info] [CI_Output][_display] Final output sent to browser
+[2022-01-19 22:12:35][debug] [CI_Output][_display] Total execution time: 0.1064
+[2022-01-19 22:12:35][info] [CI_Session][__construct] Session: Class initialized using 'files' driver.
+[2022-01-19 22:12:35][debug] [CI_Sparrow_starter][set_db] Config file loaded: /var/www/html/application/config/development/database.php
+[2022-01-19 22:12:35][info] [CI_Controller][__construct] Controller Class Initialized
+[2022-01-19 22:12:35][info] [CI_Output][_display] Final output sent to browser
+[2022-01-19 22:12:35][debug] [CI_Output][_display] Total execution time: 0.1244
+[2022-01-19 22:34:39][debug] [BASEPATH/core/Common.php][get_config] Config file loaded: /var/www/html/application/config/development/config.php
+[2022-01-19 22:34:39][info] [CI_Config][__construct] Config Class Initialized
+[2022-01-19 22:34:39][info] [CI_Hooks][__construct] Hooks Class Initialized
+[2022-01-19 22:34:39][debug] [CI_Utf8][__construct] UTF-8 Support Enabled
+[2022-01-19 22:34:39][info] [CI_Utf8][__construct] Utf8 Class Initialized
+[2022-01-19 22:34:39][info] [CI_URI][__construct] URI Class Initialized
+[2022-01-19 22:34:39][debug] [CI_Router][_set_routing] Config file loaded: /var/www/html/application/config/routes.php
+[2022-01-19 22:34:39][info] [CI_Router][__construct] Router Class Initialized
+[2022-01-19 22:34:39][debug] [BASEPATH/core/Output.php][get_mimes] Config file loaded: /var/www/html/application/config/mimes.php
+[2022-01-19 22:34:39][info] [CI_Output][__construct] Output Class Initialized
+[2022-01-19 22:34:39][info] [CI_Security][__construct] Security Class Initialized
+[2022-01-19 22:34:39][debug] [CI_Input][_sanitize_globals] Global POST, GET and COOKIE data sanitized
+[2022-01-19 22:34:39][info] [CI_Input][__construct] Input Class Initialized
+[2022-01-19 22:34:39][info] [CI_Lang][__construct] Language Class Initialized
+[2022-01-19 22:34:39][info] [CI_Loader][__construct] Loader Class Initialized
+[2022-01-19 22:34:39][debug] [CI_Loader][_ci_autoloader] Config file loaded: /var/www/html/application/config/autoload.php
+[2022-01-19 22:34:39][info] [CI_Loader][helper] Helper loaded: url_helper
+[2022-01-19 22:34:39][info] [CI_Loader][helper] Helper loaded: cookie_helper
+[2022-01-19 22:34:39][info] [CI_Loader][helper] Helper loaded: cms_helper
+[2022-01-19 22:34:39][info] [CI_Session][__construct] Session: Class initialized using 'files' driver.
+[2022-01-19 22:34:39][debug] [CI_Sparrow_starter][set_db] Config file loaded: /var/www/html/application/config/development/database.php
+[2022-01-19 22:34:39][info] [CI_Controller][__construct] Controller Class Initialized
+[2022-01-19 22:34:39][info] [CI_Output][_display] Final output sent to browser
+[2022-01-19 22:34:39][debug] [CI_Output][_display] Total execution time: 0.1057
+[2022-01-19 22:35:30][debug] [BASEPATH/core/Common.php][get_config] Config file loaded: /var/www/html/application/config/development/config.php
+[2022-01-19 22:35:30][info] [CI_Config][__construct] Config Class Initialized
+[2022-01-19 22:35:30][info] [CI_Hooks][__construct] Hooks Class Initialized
+[2022-01-19 22:35:30][debug] [CI_Utf8][__construct] UTF-8 Support Enabled
+[2022-01-19 22:35:30][info] [CI_Utf8][__construct] Utf8 Class Initialized
+[2022-01-19 22:35:30][info] [CI_URI][__construct] URI Class Initialized
+[2022-01-19 22:35:30][debug] [CI_Router][_set_routing] Config file loaded: /var/www/html/application/config/routes.php
+[2022-01-19 22:35:30][info] [CI_Router][__construct] Router Class Initialized
+[2022-01-19 22:35:30][debug] [BASEPATH/core/Output.php][get_mimes] Config file loaded: /var/www/html/application/config/mimes.php
+[2022-01-19 22:35:30][info] [CI_Output][__construct] Output Class Initialized
+[2022-01-19 22:35:30][info] [CI_Security][__construct] Security Class Initialized
+[2022-01-19 22:35:30][debug] [CI_Input][_sanitize_globals] Global POST, GET and COOKIE data sanitized
+[2022-01-19 22:35:30][info] [CI_Input][__construct] Input Class Initialized
+[2022-01-19 22:35:30][info] [CI_Lang][__construct] Language Class Initialized
+[2022-01-19 22:35:30][info] [CI_Loader][__construct] Loader Class Initialized
+[2022-01-19 22:35:30][debug] [CI_Loader][_ci_autoloader] Config file loaded: /var/www/html/application/config/autoload.php
+[2022-01-19 22:35:30][info] [CI_Loader][helper] Helper loaded: url_helper
+[2022-01-19 22:35:30][info] [CI_Loader][helper] Helper loaded: cookie_helper
+[2022-01-19 22:35:30][info] [CI_Loader][helper] Helper loaded: cms_helper
+[2022-01-19 22:35:30][info] [CI_Session][__construct] Session: Class initialized using 'files' driver.
+[2022-01-19 22:35:30][debug] [CI_Sparrow_starter][set_db] Config file loaded: /var/www/html/application/config/development/database.php
+[2022-01-19 22:35:30][info] [CI_Controller][__construct] Controller Class Initialized
